@@ -1,0 +1,26 @@
+* {
+    margin: 0px !important;
+    padding: 0px !important;
+    color: white !important;
+}
+
+body {
+    background-color: black !important;
+}
+
+.game-board {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+    border: 1px solid white !important;
+    margin-top: 50px !important;
+    width: 404px !important;
+}
+
+.game-piece {
+    height: 80px !important;
+    width: 80px !important;
+    border: 1px solid white !important;
+    display: inline-block;
+    font-size: 47px;
+}
